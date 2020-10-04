@@ -37,9 +37,13 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app will use your location to find local resources</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
-	<key>UILaunchStoryboardName</key>
+	<string>This app will use your location to find local resources</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app will use your location to find local resources</string>
+	<key>UIsStoryboardName</key>
 	<string>SplashScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>

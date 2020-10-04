@@ -7,6 +7,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "vandyHacks7 project",
+    "android": {
+      "package": "com.nraghu.vandyHacks7"
+    },
+    "ios": {
+      "bundleIdentifier": "com.nraghu.vandyHacks7"
+    }
   }
 }

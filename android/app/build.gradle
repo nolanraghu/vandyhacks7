@@ -131,11 +131,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.vandyhacks7"
+        applicationId 'com.nraghu.vandyHacks7'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
     splits {
         abi {

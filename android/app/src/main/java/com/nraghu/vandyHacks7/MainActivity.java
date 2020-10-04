@@ -1,4 +1,4 @@
-package com.vandyhacks7;
+package com.nraghu.vandyHacks7;
 
 import android.os.Bundle;
 
